@@ -10,7 +10,7 @@ const projects = [
     description: "A full responsive Real Estate is a modern full-stack web application for managing property listings, built with .NET 8.0, MongoDB, and Next.js 14+.",
     longDescription: "A full responsive Real Estate modern full-stack web application for managing property listings, built with .NET 8.0, MongoDB, and Next.js 14+.",
     image: "/real-estate.png",
-    tags: ["Next.js", "TypeScript", "Stripe", "PostgreSQL", "Redis"],
+    tags: ["Next.js", "TypeScript", ".NET 8.0", "MongoDB"],
     githubFe: "https://github.com/doquendob/million_frontend",
     githubBe: "https://github.com/doquendob/million_backend",
     demo: "https://millionfrontend-git-main-diegooquendo35-7287s-projects.vercel.app/",
