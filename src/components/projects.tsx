@@ -13,7 +13,7 @@ const projects = [
     tags: ["Next.js", "TypeScript", "Stripe", "PostgreSQL", "Redis"],
     githubFe: "https://github.com/doquendob/million_frontend",
     githubBe: "https://github.com/doquendob/million_backend",
-    demo: "#",
+    demo: "https://millionfrontend-git-main-diegooquendo35-7287s-projects.vercel.app/",
     metrics: [
       { label: "Load Time", value: "1.2s", icon: TrendingUp },
       { label: "Daily Users", value: "10K+", icon: Award }
